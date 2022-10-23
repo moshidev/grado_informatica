@@ -3,9 +3,10 @@ Algunos apuntes de la asignatura Ingeniería de Servidores de la Universidad de 
 
 ¿Qué es Anki? http://ncase.me/remember/
 
+```
+Most people rejected His message.
 
-Puntuación de las memorias en las prácticas:
+They hated Jesus because
+He told them the truth.
+```
 
-6 <-- P3 (-2 puntos por no incluir las gráficas, cosa que en su curso únicamente se pudo deducir por revelación divina o por haberse copiado de trabajos de otros años, -2 puntos por no haber puesto la bibliografía al final del documento)
-
-9 <-- P4 (-2 puntos por no haber puesto la bibliografía al final del documento, +1 punto por el ejercicio opcional)
