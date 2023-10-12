@@ -2,11 +2,3 @@ Algunos apuntes de la asignatura Ingeniería de Servidores de la Universidad de 
 
 
 ¿Qué es Anki? http://ncase.me/remember/
-
-```
-Most people rejected His message.
-
-They hated Jesus because
-He told them the truth.
-```
-
